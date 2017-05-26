@@ -13,10 +13,11 @@ or build a new list by launching the scraper with `node scraper.js`.
 After that, you cans run `npm start` in `/back` and `/front` folders and enjoy !
 
 # Screenshots
-<P align="center">
-  <IMG src="resources/hyper-gif/hyper1.gif" height="400" width="400"/>
-  <IMG src="resources/hyper-gif/hyper2.gif" height="400" width="400"/><BR>
-  <IMG src="resources/hyper-gif/hyper3.gif" height="450" width="450"/><BR>
-</P>
+<p align="center">
+  <img src="resources/hyper-gif/hyper1.gif" height="400" width="400"/>
+  <img src="resources/hyper-gif/hyper2.gif" height="400" width="400"/>
+  <img src="resources/hyper-gif/hyper3.gif" height="450" width="450"/>
+  <br> Created by sessaidi, wipariso and romontei - 2017
+</p>
 
-Created by sessaidi, wipariso and romontei - 2017
+
